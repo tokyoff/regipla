@@ -246,7 +246,8 @@ Read値、Write値は、以下のようにBTN0～BTN4を8bitに割り付けて�
 
 レジプラを使ったアプリを作られた方は、ぜひTOKYO FLIP-FLOPまでお知らせ下さい。Twitterやブログ等で告知させて頂きます。
 
-- [Twitter](https://twitter.com/tokyo_ff)
+技術的なお問い合わせもこちらまで。
+
 - [お問い合わせフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdsjOs3Xsf0jmz7rT8eoJsa7H9Lpi02qaLDTAjmOsht0I8lWA/viewform?c=0&w=1)
 
 
